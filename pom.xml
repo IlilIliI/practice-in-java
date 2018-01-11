@@ -8,6 +8,7 @@
     <version>1.0.0.BUILD-SNAPSHOT</version>
     <modules>
         <module>practice-javase-basic</module>
+        <module>practice-javase-dt-algo</module>
     </modules>
 
     <packaging>pom</packaging>
